@@ -1,0 +1,298 @@
+id	waste_id	seq	date	site_id	site_name	site_zipcode	site_state	site_city	site_street_address	status	amount	current_flag
+1	w_0001	1	2020-11-01	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	18.4	N
+2	w_0001	2	2020-11-02	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	18.4	Y
+3	w_0002	1	2020-11-01	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	18.2	N
+4	w_0002	2	2020-11-02	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	18.2	Y
+5	w_0003	1	2020-11-01	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	14.6	N
+6	w_0003	2	2020-11-02	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	14.6	Y
+7	w_0004	1	2020-11-01	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	11.7	N
+8	w_0004	2	2020-11-02	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	11.7	Y
+9	w_0005	1	2020-11-01	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	21.3	N
+10	w_0005	2	2020-11-02	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	21.3	Y
+11	w_0006	1	2020-11-01	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	6.2	Y
+12	w_0007	1	2020-11-01	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	22.9	N
+13	w_0007	2	2020-11-02	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	22.9	Y
+14	w_0008	1	2020-11-01	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	15.5	N
+15	w_0008	2	2020-11-02	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	15.5	Y
+16	w_0009	1	2020-11-02	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	10.1	Y
+17	w_0010	1	2020-11-02	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	20	Y
+18	w_0011	1	2020-11-02	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	5.9	Y
+19	w_0012	1	2020-11-02	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	9.1	N
+20	w_0012	2	2020-11-03	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	9.1	Y
+21	w_0013	1	2020-11-02	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	7.5	N
+22	w_0013	2	2020-11-03	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	7.5	Y
+23	w_0014	1	2020-11-02	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	21.8	N
+24	w_0014	2	2020-11-03	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	21.8	Y
+25	w_0015	1	2020-11-02	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	8.1	N
+26	w_0015	2	2020-11-03	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	8.1	Y
+27	w_0016	1	2020-11-02	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	11.7	Y
+28	w_0017	1	2020-11-03	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	8.8	N
+29	w_0017	2	2020-11-04	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	8.8	Y
+30	w_0018	1	2020-11-03	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	18.4	Y
+31	w_0019	1	2020-11-03	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	13.7	N
+32	w_0019	2	2020-11-04	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	13.7	Y
+33	w_0020	1	2020-11-03	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	8	N
+34	w_0020	2	2020-11-04	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	8	N
+35	w_0020	3	2020-11-04	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	8	Y
+36	w_0021	1	2020-11-03	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	18.3	Y
+37	w_0022	1	2020-11-03	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	14.9	N
+38	w_0022	2	2020-11-04	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	14.9	N
+39	w_0022	3	2020-11-04	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	14.9	Y
+40	w_0023	1	2020-11-03	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	28.6	Y
+41	w_0024	1	2020-11-03	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	12.9	N
+42	w_0024	2	2020-11-04	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	12.9	Y
+43	w_0025	1	2020-11-04	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	7.7	N
+44	w_0025	2	2020-11-05	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	7.7	Y
+45	w_0026	1	2020-11-04	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	27.1	Y
+46	w_0027	1	2020-11-04	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	8.2	N
+47	w_0027	2	2020-11-05	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	8.2	Y
+48	w_0028	1	2020-11-04	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	6.6	Y
+49	w_0029	1	2020-11-04	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	12.3	Y
+50	w_0030	1	2020-11-04	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	15.8	Y
+51	w_0031	1	2020-11-04	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	14.5	N
+52	w_0031	2	2020-11-05	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	shipped	14.5	Y
+53	w_0032	1	2020-11-04	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	26.1	Y
+54	w_0033	1	2020-11-05	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	14.8	N
+55	w_0033	2	2020-11-06	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	14.8	Y
+56	w_0034	1	2020-11-05	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	25.6	N
+57	w_0034	2	2020-11-06	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	25.6	N
+58	w_0034	3	2020-11-06	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	25.6	Y
+59	w_0035	1	2020-11-05	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	26.9	N
+60	w_0035	2	2020-11-06	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	26.9	N
+61	w_0035	3	2020-11-06	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	26.9	Y
+62	w_0036	1	2020-11-05	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	28.1	N
+63	w_0036	2	2020-11-06	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	28.1	N
+64	w_0036	3	2020-11-06	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	28.1	Y
+65	w_0037	1	2020-11-05	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	25.7	N
+66	w_0037	2	2020-11-06	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	25.7	Y
+67	w_0038	1	2020-11-05	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	15.6	N
+68	w_0038	2	2020-11-06	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	15.6	Y
+69	w_0039	1	2020-11-05	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	27.8	Y
+70	w_0040	1	2020-11-05	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	21.8	Y
+71	w_0041	1	2020-11-06	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	9.7	N
+72	w_0041	2	2020-11-07	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	9.7	Y
+73	w_0042	1	2020-11-06	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	19.2	Y
+74	w_0043	1	2020-11-06	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	16.2	N
+75	w_0043	2	2020-11-07	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	16.2	Y
+76	w_0044	1	2020-11-06	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	22.9	Y
+77	w_0045	1	2020-11-06	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	10	N
+78	w_0045	2	2020-11-07	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	10	N
+79	w_0045	3	2020-11-07	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	10	Y
+80	w_0046	1	2020-11-06	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	16.2	N
+81	w_0046	2	2020-11-07	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	16.2	Y
+82	w_0047	1	2020-11-06	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	18	N
+83	w_0047	2	2020-11-07	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	18	Y
+84	w_0048	1	2020-11-06	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	18.7	N
+85	w_0048	2	2020-11-07	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	18.7	N
+86	w_0048	3	2020-11-07	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	18.7	Y
+87	w_0049	1	2020-11-07	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	5.2	Y
+88	w_0050	1	2020-11-07	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	13.1	Y
+89	w_0051	1	2020-11-07	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	17.8	Y
+90	w_0052	1	2020-11-07	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	13.5	N
+91	w_0052	2	2020-11-08	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	13.5	N
+92	w_0052	3	2020-11-08	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	13.5	Y
+93	w_0053	1	2020-11-07	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	19.7	N
+94	w_0053	2	2020-11-08	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	19.7	N
+95	w_0053	3	2020-11-08	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	19.7	Y
+96	w_0054	1	2020-11-07	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	27.5	N
+97	w_0054	2	2020-11-08	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	27.5	Y
+98	w_0055	1	2020-11-07	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	27.6	N
+99	w_0055	2	2020-11-08	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	27.6	Y
+100	w_0056	1	2020-11-07	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	20.4	N
+101	w_0056	2	2020-11-08	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	20.4	Y
+102	w_0057	1	2020-11-08	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	7.6	N
+103	w_0057	2	2020-11-09	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	7.6	N
+104	w_0057	3	2020-11-09	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	7.6	Y
+105	w_0058	1	2020-11-08	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	25.1	Y
+106	w_0059	1	2020-11-08	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	10.4	N
+107	w_0059	2	2020-11-09	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	10.4	Y
+108	w_0060	1	2020-11-08	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	12.4	N
+109	w_0060	2	2020-11-09	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	12.4	N
+110	w_0060	3	2020-11-09	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.4	Y
+111	w_0061	1	2020-11-08	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	6.5	N
+112	w_0061	2	2020-11-09	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	6.5	N
+113	w_0061	3	2020-11-09	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	6.5	Y
+114	w_0062	1	2020-11-08	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	5.8	N
+115	w_0062	2	2020-11-09	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	5.8	Y
+116	w_0063	1	2020-11-08	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	9.8	Y
+117	w_0064	1	2020-11-08	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	9.9	Y
+118	w_0065	1	2020-11-09	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	23.5	Y
+119	w_0066	1	2020-11-09	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	20.1	N
+120	w_0066	2	2020-11-10	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	20.1	Y
+121	w_0067	1	2020-11-09	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	9.6	Y
+122	w_0068	1	2020-11-09	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	12.6	N
+123	w_0068	2	2020-11-10	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	12.6	N
+124	w_0068	3	2020-11-10	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.6	Y
+125	w_0069	1	2020-11-09	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	18.3	Y
+126	w_0070	1	2020-11-09	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	23.4	N
+127	w_0070	2	2020-11-10	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	23.4	Y
+128	w_0071	1	2020-11-09	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	6.6	N
+129	w_0071	2	2020-11-10	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	shipped	6.6	N
+130	w_0071	3	2020-11-10	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	6.6	Y
+131	w_0072	1	2020-11-09	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	23.4	Y
+132	w_0073	1	2020-11-10	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	27.6	Y
+133	w_0074	1	2020-11-10	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	11.2	N
+134	w_0074	2	2020-11-11	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	11.2	N
+135	w_0074	3	2020-11-11	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	11.2	Y
+136	w_0075	1	2020-11-10	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	20.8	N
+137	w_0075	2	2020-11-11	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	20.8	N
+138	w_0075	3	2020-11-11	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	20.8	Y
+139	w_0076	1	2020-11-10	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	26.7	N
+140	w_0076	2	2020-11-11	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	26.7	N
+141	w_0076	3	2020-11-11	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	26.7	Y
+142	w_0077	1	2020-11-10	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	6.4	N
+143	w_0077	2	2020-11-11	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	shipped	6.4	Y
+144	w_0078	1	2020-11-10	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	13.9	N
+145	w_0078	2	2020-11-11	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	13.9	Y
+146	w_0079	1	2020-11-10	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	7.8	N
+147	w_0079	2	2020-11-11	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	7.8	Y
+148	w_0080	1	2020-11-10	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	13.2	Y
+149	w_0081	1	2020-11-11	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	16.8	N
+150	w_0081	2	2020-11-12	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	16.8	Y
+151	w_0082	1	2020-11-11	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	19.5	N
+152	w_0082	2	2020-11-12	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	19.5	Y
+153	w_0083	1	2020-11-11	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	25.3	N
+154	w_0083	2	2020-11-12	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	25.3	N
+155	w_0083	3	2020-11-12	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	25.3	Y
+156	w_0084	1	2020-11-11	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	14.2	Y
+157	w_0085	1	2020-11-11	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	29.1	N
+158	w_0085	2	2020-11-12	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	29.1	Y
+159	w_0086	1	2020-11-11	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	16	N
+160	w_0086	2	2020-11-12	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	16	N
+161	w_0086	3	2020-11-12	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	16	Y
+162	w_0087	1	2020-11-11	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	17.9	Y
+163	w_0088	1	2020-11-11	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	12.2	N
+164	w_0088	2	2020-11-12	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	12.2	Y
+165	w_0089	1	2020-11-12	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	24.8	N
+166	w_0089	2	2020-11-13	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	24.8	Y
+167	w_0090	1	2020-11-12	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	21	N
+168	w_0090	2	2020-11-13	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	21	Y
+169	w_0091	1	2020-11-12	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	18.8	Y
+170	w_0092	1	2020-11-12	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	10	N
+171	w_0092	2	2020-11-13	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	10	Y
+172	w_0093	1	2020-11-12	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	22.8	N
+173	w_0093	2	2020-11-13	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	22.8	Y
+174	w_0094	1	2020-11-12	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	6.6	Y
+175	w_0095	1	2020-11-12	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	10.3	N
+176	w_0095	2	2020-11-13	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	10.3	Y
+177	w_0096	1	2020-11-12	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	20.9	N
+178	w_0096	2	2020-11-13	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	20.9	Y
+179	w_0097	1	2020-11-13	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	10.5	N
+180	w_0097	2	2020-11-14	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	10.5	Y
+181	w_0098	1	2020-11-13	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	29.2	Y
+182	w_0099	1	2020-11-13	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	15	N
+183	w_0099	2	2020-11-14	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	15	N
+184	w_0099	3	2020-11-14	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	15	Y
+185	w_0100	1	2020-11-13	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	18.4	N
+186	w_0100	2	2020-11-14	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	18.4	Y
+187	w_0101	1	2020-11-13	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	28.8	N
+188	w_0101	2	2020-11-14	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	28.8	Y
+189	w_0102	1	2020-11-13	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	5.9	Y
+190	w_0103	1	2020-11-13	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	18.5	N
+191	w_0103	2	2020-11-14	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	18.5	Y
+192	w_0104	1	2020-11-13	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	8.4	N
+193	w_0104	2	2020-11-14	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	8.4	Y
+194	w_0105	1	2020-11-14	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	12.9	N
+195	w_0105	2	2020-11-15	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	12.9	N
+196	w_0105	3	2020-11-15	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.9	Y
+197	w_0106	1	2020-11-14	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	23.6	Y
+198	w_0107	1	2020-11-14	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	25.8	N
+199	w_0107	2	2020-11-15	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	25.8	N
+200	w_0107	3	2020-11-15	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	25.8	Y
+201	w_0108	1	2020-11-14	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	21.2	N
+202	w_0108	2	2020-11-15	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	21.2	Y
+203	w_0109	1	2020-11-14	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	13	Y
+204	w_0110	1	2020-11-14	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	27.3	N
+205	w_0110	2	2020-11-15	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	27.3	N
+206	w_0110	3	2020-11-15	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	27.3	Y
+207	w_0111	1	2020-11-14	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	7.4	N
+208	w_0111	2	2020-11-15	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	7.4	N
+209	w_0111	3	2020-11-15	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	7.4	Y
+210	w_0112	1	2020-11-14	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	10.7	N
+211	w_0112	2	2020-11-15	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	10.7	Y
+212	w_0113	1	2020-11-15	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	12.7	N
+213	w_0113	2	2020-11-16	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	12.7	Y
+214	w_0114	1	2020-11-15	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	12.2	Y
+215	w_0115	1	2020-11-15	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	25	Y
+216	w_0116	1	2020-11-15	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	29.5	N
+217	w_0116	2	2020-11-16	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	29.5	Y
+218	w_0117	1	2020-11-15	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	19.5	N
+219	w_0117	2	2020-11-16	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	19.5	N
+220	w_0117	3	2020-11-16	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	19.5	Y
+221	w_0118	1	2020-11-15	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	collected	29.4	N
+222	w_0118	2	2020-11-16	s_0010	Bay Orchards	95076	CA	Watsonville	225 Main St	shipped	29.4	Y
+223	w_0119	1	2020-11-15	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	29.4	N
+224	w_0119	2	2020-11-16	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	29.4	N
+225	w_0119	3	2020-11-16	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	29.4	Y
+226	w_0120	1	2020-11-15	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	11.7	Y
+227	w_0121	1	2020-11-16	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	22	N
+228	w_0121	2	2020-11-17	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	22	Y
+229	w_0122	1	2020-11-16	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	12.3	N
+230	w_0122	2	2020-11-17	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	12.3	N
+231	w_0122	3	2020-11-17	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.3	Y
+232	w_0123	1	2020-11-16	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	26	N
+233	w_0123	2	2020-11-17	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	26	N
+234	w_0123	3	2020-11-17	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	26	Y
+235	w_0124	1	2020-11-16	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	28.3	N
+236	w_0124	2	2020-11-17	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	28.3	N
+237	w_0124	3	2020-11-17	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	28.3	Y
+238	w_0125	1	2020-11-16	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	12.6	N
+239	w_0125	2	2020-11-17	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	12.6	N
+240	w_0125	3	2020-11-17	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.6	Y
+241	w_0126	1	2020-11-16	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	5.1	Y
+242	w_0127	1	2020-11-16	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	18.6	N
+243	w_0127	2	2020-11-17	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	shipped	18.6	Y
+244	w_0128	1	2020-11-16	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	collected	9.4	N
+245	w_0128	2	2020-11-17	s_0007	Nut Tree Farm	95688	CA	Vacaville	301 County Airport Rd	shipped	9.4	Y
+246	w_0129	1	2020-11-17	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	19.4	N
+247	w_0129	2	2020-11-18	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	19.4	N
+248	w_0129	3	2020-11-18	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	19.4	Y
+249	w_0130	1	2020-11-17	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	collected	26.5	N
+250	w_0130	2	2020-11-18	s_0004	Joe Apple Farm	95616	CA	Davis	1220 Drexel Dr	shipped	26.5	Y
+251	w_0131	1	2020-11-17	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	20.8	N
+252	w_0131	2	2020-11-18	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	20.8	N
+253	w_0131	3	2020-11-18	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	20.8	Y
+254	w_0132	1	2020-11-17	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	27.8	Y
+255	w_0133	1	2020-11-17	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	12.6	N
+256	w_0133	2	2020-11-18	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	12.6	Y
+257	w_0134	1	2020-11-17	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	15.8	N
+258	w_0134	2	2020-11-18	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	15.8	Y
+259	w_0135	1	2020-11-17	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	7.1	N
+260	w_0135	2	2020-11-18	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	7.1	Y
+261	w_0136	1	2020-11-17	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	23.7	N
+262	w_0136	2	2020-11-18	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	23.7	Y
+263	w_0137	1	2020-11-18	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	13.1	N
+264	w_0137	2	2020-11-19	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	13.1	Y
+265	w_0138	1	2020-11-18	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	23.3	N
+266	w_0138	2	2020-11-19	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	23.3	N
+267	w_0138	3	2020-11-19	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	23.3	Y
+268	w_0139	1	2020-11-18	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	collected	11.5	N
+269	w_0139	2	2020-11-19	s_0011	Gilroy Garden	95020	CA	Gilroy	100 4th St	shipped	11.5	Y
+270	w_0140	1	2020-11-18	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	collected	14.3	N
+271	w_0140	2	2020-11-19	s_0012	T Motors Factory	94538	CA	Fremont	4350 Irvington Ave	shipped	14.3	Y
+272	w_0141	1	2020-11-18	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	22.1	N
+273	w_0141	2	2020-11-19	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	22.1	N
+274	w_0141	3	2020-11-19	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	22.1	Y
+275	w_0142	1	2020-11-18	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	16.4	N
+276	w_0142	2	2020-11-19	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	16.4	N
+277	w_0142	3	2020-11-19	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	16.4	Y
+278	w_0143	1	2020-11-18	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	13.1	N
+279	w_0143	2	2020-11-19	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	13.1	N
+280	w_0143	3	2020-11-19	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	13.1	Y
+281	w_0144	1	2020-11-18	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	collected	23.1	N
+282	w_0144	2	2020-11-19	s_0006	Vacaville Home Ranch	95687	CA	Vacaville	200 Keith Way	shipped	23.1	Y
+283	w_0145	1	2020-11-19	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	27	Y
+284	w_0146	1	2020-11-19	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	collected	24.7	N
+285	w_0146	2	2020-11-20	s_0003	Davis Farm	95616	CA	Davis	2020 5th St	shipped	24.7	N
+286	w_0146	3	2020-11-20	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	24.7	Y
+287	w_0147	1	2020-11-19	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	14.4	Y
+288	w_0148	1	2020-11-19	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	collected	5.4	N
+289	w_0148	2	2020-11-20	s_0008	Cherry Ranch	94513	CA	Brentwood	18 Oak St	shipped	5.4	Y
+290	w_0149	1	2020-11-19	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	20.9	Y
+291	w_0150	1	2020-11-19	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	collected	27.8	N
+292	w_0150	2	2020-11-20	s_0009	Ocean Farm	95017	CA	Davenport	500 CA-1	shipped	27.8	Y
+293	w_0151	1	2020-11-19	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	collected	12.1	N
+294	w_0151	2	2020-11-20	s_0002	Rancho Vacaville	95687	CA	Vacaville	621 Orange Dr	shipped	12.1	N
+295	w_0151	3	2020-11-20	s_0001	Fremont Plant	94538	CA	Fremont	4260 Business Center Dr	arrived at the plant	12.1	Y
+296	w_0152	1	2020-11-19	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	collected	28.1	N
+297	w_0152	2	2020-11-20	s_0005	PG Farm	95694	CA	Winters	510 Railroad Ave	shipped	28.1	Y

@@ -1,0 +1,67 @@
+[
+    {
+        "name": "id",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+    ,{
+        "name": "waste_id",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "seq",
+        "type": "INT64",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "date",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_id",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_zipcode",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_state",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_city",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "site_street_address",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "status",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "amount",
+        "type": "NUMERIC",
+        "mode": "NULLABLE"
+    }    
+    ,{
+        "name": "current_flag",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }    
+]
